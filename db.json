@@ -1,4 +1,13 @@
 {
-    "contacts": []
+  "contacts": [
+    {
+      "id": "642",
+      "name": "rashi",
+      "email": "rashi@gmail.com",
+      "phone": "1233211231",
+      "address": "ahemdabad",
+      "notes": "nothing...",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contactclone-92298.appspot.com/o/avatars%2Fdoremon.jpg?alt=media&token=f71c7e65-1b6c-4e20-8834-4f3a569b1f15"
+    }
+  ]
 }
-  

@@ -2,7 +2,7 @@ import axios from 'axios';
 import { GET_CONTACTS, EDIT_CONTACT, DELETE_CONTACT } from './actionTypes';
 import generateUniqueId from 'generate-unique-id';
 
-const API_URL = 'http://localhost:5000/contacts';
+const API_URL = 'http://localhost:5001/contacts';
 
 export const getContacts = (data) => {
   return {
